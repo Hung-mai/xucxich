@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: deaacc013d4e7394484a4830037674aa, type: 3}
+  m_Name: Data_Minigame_7_SkewerScurry
+  m_EditorClassIdentifier: 
+  minigame: 7
+  nameDisplay: Bloody Maze
+  imgThumbnail: {fileID: 21300000, guid: c275d95f35e06e241aaae190e5c69e51, type: 3}
+  GameInfo: 
+  txt_Tutorial: Avoid the sharp mace by hiding behind the stones
+  rankMinigames:
+  - prefab_Maps:
+    - {fileID: 1211399073080638339, guid: 0797ae462fac0c84b86ef581b2a2024b, type: 3}
+    - {fileID: 1211399073080638339, guid: ca1682d10217b6147a18199aab654582, type: 3}
+  - prefab_Maps:
+    - {fileID: 1211399073080638339, guid: ca1682d10217b6147a18199aab654582, type: 3}
+    - {fileID: 1444606068076718336, guid: 3af1711ce7260fe4da5a6e6ee7c4775e, type: 3}
+  - prefab_Maps:
+    - {fileID: 8868598855648664120, guid: 44716535cab4cf94aaf553be89dd2266, type: 3}
+    - {fileID: 3442375631874704762, guid: 2ace8be0a6d88fc44beb5327fa7b777e, type: 3}
+  - prefab_Maps:
+    - {fileID: 3442375631874704762, guid: aa613ede0176d1241b7b6a6e97f68b14, type: 3}
+    - {fileID: 3442375631874704762, guid: 0f4df062ae3b6274ea7bf07a1eed518b, type: 3}
+  - prefab_Maps:
+    - {fileID: 3442375631874704762, guid: 9b6b34782344998469e1a75a12ddbac5, type: 3}
+    - {fileID: 3442375631874704762, guid: dd8165f1ee5a5b5479425f842977e14c, type: 3}

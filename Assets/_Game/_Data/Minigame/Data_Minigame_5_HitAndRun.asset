@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: deaacc013d4e7394484a4830037674aa, type: 3}
+  m_Name: Data_Minigame_5_HitAndRun
+  m_EditorClassIdentifier: 
+  minigame: 5
+  nameDisplay: Balloon Race
+  imgThumbnail: {fileID: 21300000, guid: b21dcf9e660ed9042adba03792a3c3fe, type: 3}
+  GameInfo: 
+  txt_Tutorial: Hit the ball and get the surfboard to the finish line
+  rankMinigames:
+  - prefab_Maps:
+    - {fileID: 3285999226379777424, guid: 227619d50e25b65448870a3e30e78964, type: 3}
+    - {fileID: 3285999226379777424, guid: dcdec645235f40b4d9e1295334394606, type: 3}
+  - prefab_Maps:
+    - {fileID: 3285999226379777424, guid: 90be944c152b51c4ca972b6c0b148a0a, type: 3}
+    - {fileID: 923248838286624708, guid: 0fc82105259b8d94aa1574270c69991a, type: 3}
+  - prefab_Maps:
+    - {fileID: 7433093923647694186, guid: 056c7e6e93ab3ba4d8b1906f1823c799, type: 3}
+    - {fileID: 6533018357056531758, guid: 305e405026374434fb7a1a7e31674c65, type: 3}
+  - prefab_Maps:
+    - {fileID: 2336414667122221289, guid: de04dd1be18d3774d816f3e7a611f8f5, type: 3}
+    - {fileID: 2336414667122221289, guid: 4b6ea97f844889247b75ba0b938b522c, type: 3}
+  - prefab_Maps:
+    - {fileID: 2336414667122221289, guid: e97880d1249730e43b50413f06b63dc1, type: 3}
+    - {fileID: 2336414667122221289, guid: 77fa0532c15538a46966a763e50af2dd, type: 3}

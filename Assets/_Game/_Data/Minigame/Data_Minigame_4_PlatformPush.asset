@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: deaacc013d4e7394484a4830037674aa, type: 3}
+  m_Name: Data_Minigame_4_PlatformPush
+  m_EditorClassIdentifier: 
+  minigame: 4
+  nameDisplay: Risky Brick
+  imgThumbnail: {fileID: 21300000, guid: 5ee4047d5930cda4eac57790fa64e6ec, type: 3}
+  GameInfo: 
+  txt_Tutorial: The ground will be slowly disappering in a few seconds, be ready
+  rankMinigames:
+  - prefab_Maps:
+    - {fileID: 7070421677978593441, guid: faa2cf7ffc634fd4687fa125271df977, type: 3}
+    - {fileID: 7070421677978593441, guid: ec56e366bfc97514aafe5fea25184266, type: 3}
+  - prefab_Maps:
+    - {fileID: 7070421677978593441, guid: e5ef689645db5794a8f5035f32c9bdca, type: 3}
+    - {fileID: 7070421677978593441, guid: 473c09b3e63ea7849b2679b620048d01, type: 3}
+  - prefab_Maps:
+    - {fileID: 7009620557891554938, guid: 9f4c198b00e72b34fb78b75132867ae2, type: 3}
+    - {fileID: 7009620557891554938, guid: 374304db486983f4db9e6e53efa4fe0f, type: 3}
+  - prefab_Maps:
+    - {fileID: 4409676400010085224, guid: e5ae6515a8c8e6149a030e8e90866515, type: 3}
+    - {fileID: 4409676400010085224, guid: 374c2d307b1af064fb89c2707d2abb1b, type: 3}
+  - prefab_Maps:
+    - {fileID: 401184301394116001, guid: babeaba3f6bb0184da0650b5ef5234b2, type: 3}
+    - {fileID: 401184301394116001, guid: 821fa93bee28af64caad004b74a8899c, type: 3}

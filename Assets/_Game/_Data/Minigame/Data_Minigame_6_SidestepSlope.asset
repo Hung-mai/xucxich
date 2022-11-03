@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: deaacc013d4e7394484a4830037674aa, type: 3}
+  m_Name: Data_Minigame_6_SidestepSlope
+  m_EditorClassIdentifier: 
+  minigame: 6
+  nameDisplay: Dangerous Fruit
+  imgThumbnail: {fileID: 21300000, guid: 5c7be67282991e04d8413af8819bf735, type: 3}
+  GameInfo: 
+  txt_Tutorial: Avoid the giant fruits and climb to the top of the slope
+  rankMinigames:
+  - prefab_Maps:
+    - {fileID: 8981455900712788832, guid: 30a81717f191541449eeffa5794353ad, type: 3}
+    - {fileID: 8981455900712788832, guid: c39193e27f3599a48b5ee12285169505, type: 3}
+  - prefab_Maps:
+    - {fileID: 908104571002348619, guid: 5f374cf00949c1d46b3b51e2107605cd, type: 3}
+    - {fileID: 8981455900712788832, guid: a493f722a039e714e81c196dfdf5c544, type: 3}
+  - prefab_Maps:
+    - {fileID: 7745823178919008374, guid: 7df94d9d75fe2a44888f9a7a153f6c78, type: 3}
+    - {fileID: 7745823178919008374, guid: 0b3dbb8f7fee1264fadadd3311dda71f, type: 3}
+  - prefab_Maps:
+    - {fileID: 2813947053647883568, guid: 9c303162d5b5212469884848de7091de, type: 3}
+    - {fileID: 2813947053647883568, guid: 0f7735d18843de94b98cc2b7289078d7, type: 3}
+  - prefab_Maps:
+    - {fileID: 2813947053647883568, guid: 521b265ef5d369c459f153a113fcced7, type: 3}
+    - {fileID: 2813947053647883568, guid: d5b1690069be9b94cb494dde68539709, type: 3}

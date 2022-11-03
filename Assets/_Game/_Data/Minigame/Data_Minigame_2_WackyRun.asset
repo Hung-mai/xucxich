@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: deaacc013d4e7394484a4830037674aa, type: 3}
+  m_Name: Data_Minigame_2_WackyRun
+  m_EditorClassIdentifier: 
+  minigame: 2
+  nameDisplay: Weird Dash
+  imgThumbnail: {fileID: 21300000, guid: a655cedc81544c14da84d3f65b5d8a25, type: 3}
+  GameInfo: 
+  txt_Tutorial: Dodge traps and run as fast as you can to the finish line
+  rankMinigames:
+  - prefab_Maps:
+    - {fileID: 2089659456102522480, guid: 5d2b41dfdb8934d45a2ae896637b11fa, type: 3}
+    - {fileID: 2089659456102522480, guid: 0f4f276dfa4b4a44ba27852d20ec4878, type: 3}
+  - prefab_Maps:
+    - {fileID: 2089659456102522480, guid: 2b3d5a349a98fcb4b88a4d2dcf043913, type: 3}
+    - {fileID: 7948369607200120650, guid: 8d1e28a805cd2a544b325492b8462fd7, type: 3}
+  - prefab_Maps:
+    - {fileID: 6844772544187850369, guid: 34d1fa57d1280234d81bbcac1abdde3f, type: 3}
+    - {fileID: 6844772544187850369, guid: bb02deda34da5d74eb7611d37ccfe545, type: 3}
+  - prefab_Maps:
+    - {fileID: 1981585631985786425, guid: 03df767246f74bd4c87fde08d987b924, type: 3}
+    - {fileID: 1981585631985786425, guid: 6942b39c3e329684ebfa0fb9a5993f9d, type: 3}
+  - prefab_Maps:
+    - {fileID: 1981585631985786425, guid: 8fd9abbfc174d7f4cba925893817a13a, type: 3}
+    - {fileID: 1981585631985786425, guid: 85516e75667a17743984f69cbd49f5d8, type: 3}

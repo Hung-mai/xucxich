@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1496c129988a58b4cacf748240526cdb, type: 3}
+  m_Name: "5. \xC2m thanh 10 gi\xE2y \u0111\u1EBFm ng\u01B0\u1EE3c cu\u1ED1i c\xF9ng"
+  m_EditorClassIdentifier: 
+  clip: {fileID: 8300000, guid: 7b8f3c68b48a1d34ba0bdcd866b65cc1, type: 3}
+  volume: 1
+  delay: 0
+  pitch: 1.1
+  isLoop: 0

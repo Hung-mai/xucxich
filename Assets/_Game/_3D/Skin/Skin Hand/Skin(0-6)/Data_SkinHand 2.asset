@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9aeb4da3c2886bd44a1ebb4611ae5dae, type: 3}
+  m_Name: Data_SkinHand 2
+  m_EditorClassIdentifier: 
+  keyID: hand 2
+  type: 3
+  nameCharSkin: 
+  idColor: 0
+  colorEyelid: {r: 0, g: 0, b: 0, a: 0}
+  texure_Skin: {fileID: 0}
+  icon: {fileID: 21300000, guid: cf5bbf6aa06827947ae9759eb68bb317, type: 3}
+  cost: 2000
+  amountVideoAds: 0
+  isVip: 0
+  HideOnIOS: 0
+  listComponent:
+  - skeleton: 2
+    pos_Skin: {x: 0.0028, y: -0.0001, z: -0.0001}
+    rot_Skin: {x: 138.744, y: 3.016998, z: 0.2070007}
+    scale_Skin: {x: 0.05, y: 0.05, z: 0.05}
+    obj_3D: {fileID: 919132149155446097, guid: e92ae473cd1b5f646a342501edd3c6a5, type: 3}
+  - skeleton: 3
+    pos_Skin: {x: -0.0036, y: -0.001, z: -0.0001}
+    rot_Skin: {x: 166.635, y: -178.078, z: 8.507004}
+    scale_Skin: {x: 0.05, y: 0.05, z: 0.05}
+    obj_3D: {fileID: 919132149155446097, guid: e92ae473cd1b5f646a342501edd3c6a5, type: 3}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "342810941580",
+    "project_id": "sausage-master",
+    "storage_bucket": "sausage-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342810941580:android:3af601f963ef4ec19283a9",
+        "android_client_info": {
+          "package_name": "com.abi.sausage.survival"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342810941580-5nvmtaar9u93u59sn3pfkf0src9q9tsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCPmQAtGS3pyhK_op_VFXA34uFxtpV2Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342810941580-5nvmtaar9u93u59sn3pfkf0src9q9tsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: deaacc013d4e7394484a4830037674aa, type: 3}
+  m_Name: Data_Minigame_8_GhostChaser
+  m_EditorClassIdentifier: 
+  minigame: 8
+  nameDisplay: Nightmare Arena
+  imgThumbnail: {fileID: 21300000, guid: ee2920276c70ef74f959424aefccb320, type: 3}
+  GameInfo: 
+  txt_Tutorial: ' Run away from the Monsters'
+  rankMinigames:
+  - prefab_Maps:
+    - {fileID: 6866231955531027838, guid: 5b791027e083c414eb2f131cc6bb397e, type: 3}
+  - prefab_Maps:
+    - {fileID: 6866231955531027838, guid: 4c0cb76826e9dae489aafeef3fd8073f, type: 3}
+  - prefab_Maps:
+    - {fileID: 6866231955531027838, guid: 9c6df35763afbb94c9864a3c48edaa55, type: 3}
+  - prefab_Maps:
+    - {fileID: 6866231955531027838, guid: 019cb36db7cbf5240bf197c359121db6, type: 3}
+  - prefab_Maps:
+    - {fileID: 6866231955531027838, guid: 02cbec752bd6d2e4aa82a979871a6059, type: 3}

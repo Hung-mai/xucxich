@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9aeb4da3c2886bd44a1ebb4611ae5dae, type: 3}
+  m_Name: Data_SkinFull 5
+  m_EditorClassIdentifier: 
+  keyID: full 5
+  type: 5
+  nameCharSkin: 
+  idColor: 7
+  colorEyelid: {r: 0.8509804, g: 0.5921569, b: 0.64705884, a: 1}
+  texure_Skin: {fileID: 2800000, guid: a78ab9b2c793f7144996def8420e0f3b, type: 3}
+  icon: {fileID: 21300000, guid: 9e4424b1c4aac2747add6e52fab2cc53, type: 3}
+  cost: 4000
+  amountVideoAds: 0
+  isVip: 0
+  HideOnIOS: 0
+  listComponent:
+  - skeleton: 1
+    pos_Skin: {x: -0.0091, y: -0.0021, z: -0.0006}
+    rot_Skin: {x: -90.767, y: 93.107, z: -7.315979}
+    scale_Skin: {x: 0.05, y: 0.05, z: 0.05}
+    obj_3D: {fileID: 919132149155446097, guid: a8aa47f88d81e1b4c96b5161e0bdb2af, type: 3}
+  - skeleton: 2
+    pos_Skin: {x: 0.0025, y: -0.0028, z: -0.0001}
+    rot_Skin: {x: -180.053, y: 174.888, z: -54.23901}
+    scale_Skin: {x: 0.035, y: 0.035, z: 0.035}
+    obj_3D: {fileID: 919132149155446097, guid: 6c56ebbd37f221f45939ad8d86bb444d, type: 3}

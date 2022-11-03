@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9aeb4da3c2886bd44a1ebb4611ae5dae, type: 3}
+  m_Name: Data_SkinHair 24
+  m_EditorClassIdentifier: 
+  keyID: Hair 24
+  type: 1
+  nameCharSkin: 
+  idColor: -1
+  colorEyelid: {r: 0, g: 0, b: 0, a: 0}
+  texure_Skin: {fileID: 0}
+  icon: {fileID: 21300000, guid: 6bdf18ade4af9504cb1c1d122d9e67cd, type: 3}
+  cost: 1000
+  amountVideoAds: 0
+  isVip: 0
+  HideOnIOS: 0
+  listComponent:
+  - skeleton: 1
+    pos_Skin: {x: -0.0030802516, y: 0.02702959, z: 0.000049185008}
+    rot_Skin: {x: 276.68542, y: 112.65016, z: 337.13434}
+    scale_Skin: {x: 0.04931135, y: 0.04931135, z: 0.04931135}
+    obj_3D: {fileID: 919132149155446097, guid: a6e37a69b0c11fe44bbb3d60ef397f0b, type: 3}

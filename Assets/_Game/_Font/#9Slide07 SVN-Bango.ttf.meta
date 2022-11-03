@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 84888c0b58693994686f83bacfc4e03a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: '#9Slide07 SVNBango'
+  fontNames:
+  - '#9Slide07 SVNBango'
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 79120ac883cd73448947c3c43a145c17, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

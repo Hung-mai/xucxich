@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: deaacc013d4e7394484a4830037674aa, type: 3}
+  m_Name: Data_Minigame_9_OnTheCuttingBoard
+  m_EditorClassIdentifier: 
+  minigame: 9
+  nameDisplay: Monster Smash
+  imgThumbnail: {fileID: 21300000, guid: 53e889b381a842940aeba72d210d37bf, type: 3}
+  GameInfo: 
+  txt_Tutorial: Run and dodge the attacks of the Monster
+  rankMinigames:
+  - prefab_Maps:
+    - {fileID: 7520373615896144602, guid: 914bf591c0cc2a64c8162e1cd80df926, type: 3}
+  - prefab_Maps:
+    - {fileID: 7520373615896144602, guid: cf3acf565adb62b4b878c5b8150d38fd, type: 3}
+  - prefab_Maps:
+    - {fileID: 7520373615896144602, guid: 4346b8cb18a88a24db1649035ea91768, type: 3}
+  - prefab_Maps:
+    - {fileID: 7520373615896144602, guid: f928075045bb6c04d87903b6a53e8c22, type: 3}
+  - prefab_Maps:
+    - {fileID: 7520373615896144602, guid: fc4a4e996a1fb564bbf2be010c577794, type: 3}

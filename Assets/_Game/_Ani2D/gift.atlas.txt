@@ -1,0 +1,41 @@
+
+gift.png
+size: 430,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1 copy
+  rotate: false
+  xy: 166, 69
+  size: 179, 45
+  orig: 179, 45
+  offset: 0, 0
+  index: -1
+Layer 1 copy 2
+  rotate: false
+  xy: 2, 2
+  size: 162, 112
+  orig: 162, 112
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 166, 19
+  size: 132, 48
+  orig: 132, 48
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: true
+  xy: 347, 12
+  size: 102, 81
+  orig: 102, 81
+  offset: 0, 0
+  index: -1
+dot
+  rotate: false
+  xy: 300, 36
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1

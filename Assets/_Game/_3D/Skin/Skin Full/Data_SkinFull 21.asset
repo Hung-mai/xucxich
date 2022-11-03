@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9aeb4da3c2886bd44a1ebb4611ae5dae, type: 3}
+  m_Name: Data_SkinFull 21
+  m_EditorClassIdentifier: 
+  keyID: full 21
+  type: 5
+  nameCharSkin: 
+  idColor: 1
+  colorEyelid: {r: 1, g: 0.7019608, b: 0.60784316, a: 1}
+  texure_Skin: {fileID: 2800000, guid: 956a8b1a665848b43ae8d43b790886ad, type: 3}
+  icon: {fileID: 21300000, guid: 1e482e2a45521a34a89cc83f6570ae0d, type: 3}
+  cost: 4000
+  amountVideoAds: 0
+  isVip: 0
+  HideOnIOS: 0
+  listComponent:
+  - skeleton: 2
+    pos_Skin: {x: -0.0041, y: 0.0028, z: -0.0002}
+    rot_Skin: {x: 54.06133, y: 257.99612, z: 171.90126}
+    scale_Skin: {x: 0.04, y: 0.04, z: 0.04}
+    obj_3D: {fileID: 919132149155446097, guid: 71560630be462014284d0881c41c0271, type: 3}

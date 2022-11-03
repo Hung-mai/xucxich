@@ -1,0 +1,9 @@
+﻿Temp
+obj
+UserSettings
+*.csproj
+.vs
+.vsconfig
+*.sln
+Library
+remote_config_data

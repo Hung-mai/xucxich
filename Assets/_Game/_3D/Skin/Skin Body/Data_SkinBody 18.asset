@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9aeb4da3c2886bd44a1ebb4611ae5dae, type: 3}
+  m_Name: Data_SkinBody 18
+  m_EditorClassIdentifier: 
+  keyID: Body 18
+  type: 2
+  nameCharSkin: 
+  idColor: 3
+  colorEyelid: {r: 0, g: 0, b: 0, a: 0}
+  texure_Skin: {fileID: 2800000, guid: e71fc2a84bd22794e81fe51c79dbb030, type: 3}
+  icon: {fileID: 21300000, guid: 5696e6d13a524e340ad6d4aeeb1ff4bb, type: 3}
+  cost: 1000
+  amountVideoAds: 0
+  isVip: 0
+  HideOnIOS: 0
+  listComponent: []
